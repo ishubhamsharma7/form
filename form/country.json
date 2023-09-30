@@ -1,0 +1,49 @@
+[
+    {
+        "_id" : ObjectId("6515286aa5398e8bf0b3c166"),
+        "countryName" : "India",
+        "state" : [ 
+            {
+                "name" : "Andaman and Nicobar Islands",
+                "city" : [ 
+                    "Andaman", 
+                    "Bamboo Flat"
+                ]
+            }, 
+            {
+                "name" : "Andhra Pradesh",
+                "city" : [ 
+                    "Akividu", 
+                    "Anantapur"
+                ]
+            }, 
+            {
+                "name" : "Delhi",
+                "city" : [ 
+                    "New Delhi", 
+                    "Rohini"
+                ]
+            }
+        ]
+    },
+    {
+        "_id" : ObjectId("65152876a5398e8bf0b3c16d"),
+        "countryName" : "United States",
+        "state" : [ 
+            {
+                "name" : "Ohio",
+                "city" : [ 
+                    "Andover", 
+                    "Ashley"
+                ]
+            }, 
+            {
+                "name" : "Oklahoma",
+                "city" : [ 
+                    "Altus", 
+                    "Arkoma"
+                ]
+            }
+        ]
+    }
+]

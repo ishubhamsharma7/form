@@ -1,0 +1,26 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "testApp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "convict": "^6.2.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "glob-array": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.2.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
