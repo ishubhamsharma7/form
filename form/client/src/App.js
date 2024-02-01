@@ -9,7 +9,7 @@ function App() {
       <nav>
         <ul>
           <li>
-            <Link to='/'> Home Page</Link>
+            <Link to='/'> Home</Link>
           </li>
           <li>
             <Link to='/users/detail'> Users</Link>
